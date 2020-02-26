@@ -1,0 +1,13 @@
+The data on the root volumes of store-backed and EBS-backed instances get deleted by default when they are terminated. If you want to prevent that from happening, which instance would you use?
+
+You have connected four instances to ELB. To automatically terminate your unhealthy instances and replace them with new ones, which functionality would you use?
+
+
+If you are running your DB instance as Multi-AZ deployment, can you use standby DB instances along with your primary DB instance?
+
+
+I created a key in North Virginia region to encrypt my data in Oregon region. I also added three users to the key and an external AWS account. Then, to encrypt an object in S3, when I tried to use the same key, it was not listed. Where did I go wrong?
+
+You have created a VPC with private and public subnets. In what kind of subnet would you launch the database servers?how u will login to db server?
+
+You have deployed multiple EC2 instances across multiple availability zones to run your website. You have also deployed a Multi-AZ RDS MySQL Extra Large DB Instance. The site performs a high number of small read and write operations per second. After some time, you observed that there is read contention on RDS MySQL. What would be your approach to resolve the contention and optimize your website?
